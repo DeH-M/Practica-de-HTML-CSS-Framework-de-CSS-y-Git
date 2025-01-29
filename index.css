@@ -1,0 +1,14 @@
+body {
+    margin-top: 80px;
+  }
+  
+  section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .comment {
+    margin-top: 20px;
+    text-align: left;
+  }
+  

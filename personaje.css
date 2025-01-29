@@ -1,0 +1,25 @@
+
+/* Fondo negro y texto blanco */
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  margin: 20px 0;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
